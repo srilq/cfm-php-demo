@@ -1,18 +1,18 @@
 # copilot-markdown-generator PHP Demo
 
-### 1. <br>There is a [GitHub repo] called copilot-markdown-generator-php, a [README.md] and a [CONTRIBUTING.md].
----
-### 2. <br>There are [API docs] in the readme file.
----
-### 3. <br>It's published on [Packagist]. The package is defined in [composer.json].
----
-### 4. <br>You can install it:
+## 1. <br>There is a [GitHub repo] called copilot-markdown-generator-php, a [README.md] and a [CONTRIBUTING.md].
+
+## 2. <br>There are [API docs] in the readme file.
+
+## 3. <br>It's published on [Packagist]. The package is defined in [composer.json].
+
+## 4. <br>You can install it:
 ```
 ~/src/cfm-php-demo
 ❯ composer require conde-nast-international/copilot-markdown-generator
 ```
----
-### 5. <br>You can run it interactively:
+
+## 5. <br>You can run it interactively:
 ```
 ~/src/cfm-php-demo
 ❯ php -a
