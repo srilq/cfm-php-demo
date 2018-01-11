@@ -1,17 +1,13 @@
 # copilot-markdown-generator PHP Demo
 
 ## 1. <br>There is a [GitHub repo] called copilot-markdown-generator-php, a [README.md] and a [CONTRIBUTING.md].
-
 ## 2. <br>There are [API docs] in the readme file.
-
 ## 3. <br>It's published on [Packagist]. The package is defined in [composer.json].
-
 ## 4. <br>You can install it:
 ```
 ~/src/cfm-php-demo
 ❯ composer require conde-nast-international/copilot-markdown-generator
 ```
-
 ## 5. <br>You can run it interactively:
 ```
 ~/src/cfm-php-demo
@@ -35,17 +31,17 @@ php > echo $blockquote->write();
 > Hello!
 > World!
 ```
-
-## 6. <br>There's a full [example implementation].
-
+## 6. <br>There's an [example implementation].
 ## 7. <br>Questions? <br>Feedback?
-
 ## 8. <br>Considerations for API v0.1.0:
 ### Questions on naming:
-* Should the library namespace be called **CopilotTags** and base class be **CopilotTag**, or something else?
+* Should the library namespace be called **CopilotTags** and base class
+**CopilotTag**, or something else?
 * Should the ***write*** method be called ***render***?
-* Should **HR** be called **ThematicBreak** to be in line with the CommonMark spec?
-* Should **Blockquote** be called **BlockQuote** to be in line with the CommonMark spec?
+* Should **HR** be called **ThematicBreak** to be in line with the CommonMark
+spec?
+* Should **Blockquote** be called **BlockQuote** to be in line with the
+CommonMark spec?
 
 [GitHub repo]: https://github.com/conde-nast-international/copilot-markdown-generator-php/
 [README.md]: https://github.com/conde-nast-international/copilot-markdown-generator-php/blob/master/README.md
