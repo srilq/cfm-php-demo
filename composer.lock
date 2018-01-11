@@ -1,0 +1,92 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "dafb1d248500403e53997a2cdd1bec75",
+    "packages": [
+        {
+            "name": "conde-nast-international/copilot-markdown-generator",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/conde-nast-international/copilot-markdown-generator-php.git",
+                "reference": "f032aed476ff4616054cae2faf3f6db7784565ae"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/conde-nast-international/copilot-markdown-generator-php/zipball/f032aed476ff4616054cae2faf3f6db7784565ae",
+                "reference": "f032aed476ff4616054cae2faf3f6db7784565ae",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.6.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^5.7"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "CopilotTags\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Contributors",
+                    "homepage": "https://github.com/conde-nast-international/copilot-markdown-generator-php/graphs/contributors"
+                }
+            ],
+            "description": "Generator classes for Copilot-flavored Markdown tags.",
+            "homepage": "https://github.com/conde-nast-international/copilot-markdown-generator-php",
+            "keywords": [
+                "api",
+                "cni",
+                "commonmark",
+                "composer",
+                "conde nast",
+                "conde nast international",
+                "content converter",
+                "content converters",
+                "content parser",
+                "converter",
+                "converters",
+                "copilot",
+                "copilot flavored markdown",
+                "copilot flavoured markdown",
+                "copilot markdown",
+                "copilot markdown generator",
+                "copilot tags",
+                "flyway",
+                "flyway integration",
+                "flyway integration api",
+                "generater",
+                "generator",
+                "integration",
+                "library",
+                "markdown",
+                "markdown tags",
+                "parser",
+                "php",
+                "tags",
+                "tugboat"
+            ],
+            "time": "2018-01-11T11:17:43+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "conde-nast-international/copilot-markdown-generator": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

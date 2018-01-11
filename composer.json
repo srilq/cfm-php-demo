@@ -1,0 +1,14 @@
+{
+    "name": "srilq/cfm-php-demo",
+    "type": "project",
+    "require": {
+        "conde-nast-international/copilot-markdown-generator": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stef Jones",
+            "email": "stef.jones@condenastint.com"
+        }
+    ]
+}
