@@ -36,9 +36,12 @@ php > echo $blockquote->write();
 > World!
 ```
 
+## 6. <br>There's a full [example implementation].
+
 [GitHub repo]: https://github.com/conde-nast-international/copilot-markdown-generator-php/
 [README.md]: https://github.com/conde-nast-international/copilot-markdown-generator-php/blob/master/README.md
 [CONTRIBUTING.md]: https://github.com/conde-nast-international/copilot-markdown-generator-php/blob/master/CONTRIBUTING.md
 [API docs]: https://github.com/conde-nast-international/copilot-markdown-generator-php/blob/master/README.md#api
 [Packagist]: https://packagist.org/packages/conde-nast-international/copilot-markdown-generator
 [composer.json]: https://github.com/conde-nast-international/copilot-markdown-generator-php/blob/master/composer.json
+[example implementation]: https://github.com/conde-nast-international/copilot-markdown-generator-php/tree/master/example
