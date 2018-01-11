@@ -38,6 +38,15 @@ php > echo $blockquote->write();
 
 ## 6. <br>There's a full [example implementation].
 
+## 7. <br>Questions? <br>Feedback?
+
+## 8. <br>Considerations for API v0.1.0:
+### Questions on naming:
+* Should the library namespace be called **CopilotTags** and base class be **CopilotTag**, or something else?
+* Should the ***write*** method be called ***render***?
+* Should **HR** be called **ThematicBreak** to be in line with the CommonMark spec?
+* Should **Blockquote** be called **BlockQuote** to be in line with the CommonMark spec?
+
 [GitHub repo]: https://github.com/conde-nast-international/copilot-markdown-generator-php/
 [README.md]: https://github.com/conde-nast-international/copilot-markdown-generator-php/blob/master/README.md
 [CONTRIBUTING.md]: https://github.com/conde-nast-international/copilot-markdown-generator-php/blob/master/CONTRIBUTING.md
