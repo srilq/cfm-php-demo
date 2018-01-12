@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/conde-nast-international/copilot-markdown-generator-php.git",
-                "reference": "f032aed476ff4616054cae2faf3f6db7784565ae"
+                "reference": "63499f1c469dce0ae3c6acc842b45d9525c83de9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/conde-nast-international/copilot-markdown-generator-php/zipball/f032aed476ff4616054cae2faf3f6db7784565ae",
-                "reference": "f032aed476ff4616054cae2faf3f6db7784565ae",
+                "url": "https://api.github.com/repos/conde-nast-international/copilot-markdown-generator-php/zipball/63499f1c469dce0ae3c6acc842b45d9525c83de9",
+                "reference": "63499f1c469dce0ae3c6acc842b45d9525c83de9",
                 "shasum": ""
             },
             "require": {
@@ -76,7 +76,7 @@
                 "tags",
                 "tugboat"
             ],
-            "time": "2018-01-11T11:17:43+00:00"
+            "time": "2018-01-12T11:50:22+00:00"
         }
     ],
     "packages-dev": [],
