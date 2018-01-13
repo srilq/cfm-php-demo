@@ -1,3 +1,5 @@
+<p style="text-align:right">Stef J<br>12.01.18</p>
+
 # copilot-markdown-generator PHP Demo
 
 ## 1. <br>There is a [GitHub repo] called copilot-markdown-generator-php, which has a [README.md] and a [CONTRIBUTING.md].
@@ -33,7 +35,7 @@ php > echo $blockquote->write();
 ```
 ## 6. <br>There is a suite of data-driven unit tests.
 ## 7. <br>There's an [example implementation].
-## 8. Is there anything you'd like to see that I haven't shown? <br>Questions? <br>Feedback?
+## 8. <br>Is there anything you'd like to see that I haven't shown? <br>Questions? <br>Feedback?
 ## 9. <br>Considerations for API v0.1.0:
 ### Questions on naming:
 * Should the library namespace be called **CopilotTags** and base class
