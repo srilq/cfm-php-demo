@@ -2,7 +2,7 @@
     "name": "srilq/cfm-php-demo",
     "type": "project",
     "require": {
-        "conde-nast-international/copilot-markdown-generator": "dev-master"
+        "conde-nast-international/copilot-markdown-generator": "^0.2.0"
     },
     "license": "MIT",
     "authors": [

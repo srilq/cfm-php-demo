@@ -4,27 +4,28 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "dafb1d248500403e53997a2cdd1bec75",
+    "content-hash": "7261f33253988bda1432c8d3227c6fc4",
     "packages": [
         {
             "name": "conde-nast-international/copilot-markdown-generator",
-            "version": "dev-master",
+            "version": "v0.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/conde-nast-international/copilot-markdown-generator-php.git",
-                "reference": "63499f1c469dce0ae3c6acc842b45d9525c83de9"
+                "reference": "37a29f3460560642f53263e6df29a977e11f8138"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/conde-nast-international/copilot-markdown-generator-php/zipball/63499f1c469dce0ae3c6acc842b45d9525c83de9",
-                "reference": "63499f1c469dce0ae3c6acc842b45d9525c83de9",
+                "url": "https://api.github.com/repos/conde-nast-international/copilot-markdown-generator-php/zipball/37a29f3460560642f53263e6df29a977e11f8138",
+                "reference": "37a29f3460560642f53263e6df29a977e11f8138",
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.6.0"
+                "php": ">=5.3"
             },
             "require-dev": {
-                "phpunit/phpunit": "^5.7"
+                "phpunit/phpunit": "^4.8",
+                "squizlabs/php_codesniffer": "^2.9"
             },
             "type": "library",
             "autoload": {
@@ -76,15 +77,13 @@
                 "tags",
                 "tugboat"
             ],
-            "time": "2018-01-12T11:50:22+00:00"
+            "time": "2018-01-23T15:12:04+00:00"
         }
     ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "conde-nast-international/copilot-markdown-generator": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
